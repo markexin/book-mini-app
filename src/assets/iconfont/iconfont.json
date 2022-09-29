@@ -1,0 +1,44 @@
+{
+  "id": "3674895",
+  "name": "book",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "579520",
+      "name": "相机1",
+      "font_class": "xiangji1",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "8288885",
+      "name": "信封",
+      "font_class": "xinfeng",
+      "unicode": "e857",
+      "unicode_decimal": 59479
+    },
+    {
+      "icon_id": "9512714",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "13871959",
+      "name": "登陆密码",
+      "font_class": "denglumima",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "25778126",
+      "name": "ff",
+      "font_class": "ff",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}
